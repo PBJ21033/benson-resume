@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Peter Benson's Resume
 ---
 # Peter Benson Jr
